@@ -1,6 +1,6 @@
 <div align="center">
 
-# asdf-sentry-cli [![Build](https://github.com/MacPaw/asdf-sentry-cli/actions/workflows/build.yml/badge.svg)](https://github.com/MacPaw/asdf-sentry-cli/actions/workflows/build.yml) [![Lint](https://github.com/MacPaw/asdf-sentry-cli/actions/workflows/lint.yml/badge.svg)](https://github.com/MacPaw/asdf-sentry-cli/actions/workflows/lint.yml)
+# asdf-sentry-cli [![Build](https://github.com/getbusy-plc/asdf-sentry-cli/actions/workflows/build.yml/badge.svg)](https://github.com/getbusy-plc/asdf-sentry-cli/actions/workflows/build.yml) [![Lint](https://github.com/getbusy-plc/asdf-sentry-cli/actions/workflows/lint.yml/badge.svg)](https://github.com/getbusy-plc/asdf-sentry-cli/actions/workflows/lint.yml)
 
 [sentry-cli](https://github.com/getsentry/sentry-cli) plugin for the [asdf version manager](https://asdf-vm.com).
 
@@ -24,7 +24,7 @@ Plugin:
 ```shell
 asdf plugin add sentry-cli
 # or
-asdf plugin add sentry-cli https://github.com/MacPaw/asdf-sentry-cli.git
+asdf plugin add sentry-cli https://github.com/getbusy-plc/asdf-sentry-cli.git
 ```
 
 sentry-cli:
@@ -50,8 +50,8 @@ install & manage versions.
 
 Contributions of any kind welcome! See the [contributing guide](contributing.md).
 
-[Thanks goes to these contributors](https://github.com/MacPaw/asdf-sentry-cli/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/getbusy-plc/asdf-sentry-cli/graphs/contributors)!
 
 # License
 
-See [LICENSE](LICENSE) © [MacPaw](https://github.com/MacPaw/)
+See [LICENSE](LICENSE) © [GetBusy UK Limited](https://github.com/getbusy-plc/)
